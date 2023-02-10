@@ -1,0 +1,49 @@
+.de{
+	position: relative;
+	left: 30em;
+	font-size: 17px;
+
+}
+.anita{
+	position: relative;
+	top: 27em;
+	text-align: center;
+	background-color: green;
+}
+.it{
+	position: relative;
+	top: 5em;
+	color: green;
+}
+.t{
+	position: relative;
+	top: 12em;
+
+	color:white;
+}
+.ti{
+	position: relative;
+	right: 15em;
+	color: green;
+	
+} 
+.as{
+	position: relative;
+	width: 100%;
+	height: 25px;
+	right: 25em;
+}
+
+body{
+	overflow-x: hidden;
+	background-attachment: fixed;
+}
+ul:focus{
+	outline-color:green;
+}
+.fe{
+	background-image: url(desk.jpg);
+
+	width: 100%;
+	
+}
